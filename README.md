@@ -11,7 +11,6 @@ Este repositório foi projetado para armazenar, gerenciar e compartilhar arquivo
 
 - `/srv/compartilhamento`: Diretório de compartilhamento externo.
 
----
 
 ## Funcionalidades
 
