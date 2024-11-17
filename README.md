@@ -40,3 +40,6 @@ while read path action file; do
     echo "Arquivo $file movido para $DESTINO"
 done
 ```
+## Conetar servidor SAMBA
+
+smb://IP_do_servidor/pasta_desejada
