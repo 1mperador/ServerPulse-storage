@@ -10,6 +10,14 @@ Este repositório foi projetado para armazenar, gerenciar e compartilhar arquivo
 - `/srv/temp`: Espaço temporário usado para transferência de arquivos.
 
 - `/srv/compartilhamento`: Diretório de compartilhamento externo.
+---
+- `/home/usuario-admin`: Reservado para o usuario com maior cargo.
+
+- `/home/usuario-viewer`: Usuario que vai apenas olhar. 
+---
+- `/tmp/arq-texto`: Quando precisa direcionar arquivos de texto para o principal.
+  
+- `/tmp/code`: Proprio para codigo, como se voce estivese dando commit.
 
 
 ## Funcionalidades
@@ -19,6 +27,8 @@ Este repositório foi projetado para armazenar, gerenciar e compartilhar arquivo
 - `Logs de Atividade`: Registra a atividade de arquivos para fins de monitoramento.
 
 - `Backup Programado`: Realiza backups em intervalos regulares para maior segurança dos dados.
+
+
 
 ## Funcionalidade do tmp
 A pasta tmp serve para ser como pasta temporaria servindo para deixar os arquivos nela e depois sendo retirecionado para outra pasta.
