@@ -8,11 +8,7 @@
                                    \__ \ |   (   | |   (   | (   |  __/ 
                                    ____/\__|\___/ _|  \__,_|\__, |\___| 
                                                             |___/       
-
 ```
-
-# ServerPulse-storage
- 
 Este repositório foi projetado para armazenar, gerenciar e compartilhar arquivos. Ele é dividido em diferentes subdiretórios para facilitar a organização e o acesso aos dados.
 
 ## Estrutura do Diretório
