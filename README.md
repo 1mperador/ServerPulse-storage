@@ -1,3 +1,16 @@
+```
+            _____                     _____     _         
+           |   __|___ ___ _ _ ___ ___|  _  |_ _| |___ ___     # Os: Ubuntu Server 24.04.1 LTS
+           |__   | -_|  _| | | -_|  _|   __| | | |_ -| -_|    # Shell: bash 5.2.21 
+           |_____|___|_|  \_/|___|_| |__|  |___|_|___|___|                                              
+                                         |                              
+                                     __| __|  _ \   __| _` |  _` |  _ \ 
+                                   \__ \ |   (   | |   (   | (   |  __/ 
+                                   ____/\__|\___/ _|  \__,_|\__, |\___| 
+                                                            |___/       
+
+```
+
 # ServerPulse-storage
  
 Este repositório foi projetado para armazenar, gerenciar e compartilhar arquivos. Ele é dividido em diferentes subdiretórios para facilitar a organização e o acesso aos dados.
